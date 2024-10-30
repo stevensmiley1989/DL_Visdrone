@@ -8,7 +8,7 @@ Links below to visualize the notebooks rendered.
 
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [DTSA_5011_Final_Project.ipynb](https://nbviewer.org/github/stevensmiley1989/Deep_Learning_VisDrone/blob/main/DTSA_5011_Final_Project.ipynb) | Jupyter Notebook|
+| [DTSA_5011_Final.ipynb](https://nbviewer.org/github/stevensmiley1989/DL_Visdrone/blob/main/DTSA_5011_Final.ipynb) | Jupyter Notebook|
 
 
 ## 2 Data Inputs <a class="anchor" id="2"></a>
