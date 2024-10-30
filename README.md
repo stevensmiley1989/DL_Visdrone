@@ -1,4 +1,4 @@
-# Deep_Learning_VisDrone
+# DL_VisDrone
 DTSA 5011 - Final
 ## Problem Statement
 I want to explore different **object detection** algorithms on the **VisDrone** dataset, which is primarily for cars, bus, trucks, people, etc captured from various drones between 25-400 ft. AGL.  My goal is to find a training strategy that performs well on this dataset so I can use it with my own personal drone.
